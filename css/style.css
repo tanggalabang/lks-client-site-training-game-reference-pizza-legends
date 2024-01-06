@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.game-container {
+    height: 500px;
+    width: 500px;
+    background-color: lightslategray;
+    justify-content: center;
+    align-items: center;
+    
+}
